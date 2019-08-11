@@ -1,5 +1,8 @@
 _repo: Comment-on-Prononce-le-Francais-Traite-complet-de-prononciation-pratique-avec-le-noms-propres__60052
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60052-h/images/cover.jpg
 creator:
   author:
     agent_name: Martinon, Philippe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50762
     wikipedia: https://fr.wikipedia.org/wiki/Philippe_Martinon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60052#Comment-on-Prononce-le-Francais-Traite-complet-de-prononciation-pratique-avec-le-noms-propres_
 gutenberg_bookshelf:
 - FR Langues
 - FR Nouveautés
